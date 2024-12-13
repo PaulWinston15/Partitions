@@ -16,4 +16,4 @@ Step 3: Click on create and do not change any of the default settings. The only 
 
 Step 4: Once that is finished, you can press enter until you exit the settings. Your new drive is now created.
 
-![Link by Tutorialspoint](https://www.tutorialspoint.com/how-to-add-disk-storage-to-oracle-virtual-box-on-linux#:~:text=Open%20Oracle%20VM%20Virtual%20Box,Click%20on%20Create%20New%20Disk.
+[Link by Tutorialspoint](https://www.tutorialspoint.com/how-to-add-disk-storage-to-oracle-virtual-box-on-linux#:~:text=Open%20Oracle%20VM%20Virtual%20Box,Click%20on%20Create%20New%20Disk.
