@@ -1,5 +1,8 @@
 For this example, we will create 3 Partitons.
 
+
+[Article by HP](https://www.hp.com/us-en/shop/tech-takes/how-to-partition-a-hard-drive)
+
 1. Right-click the start button and select Disk Management.
 ![Screenshot 2024-12-13 133928](https://github.com/user-attachments/assets/ced5be99-e9a9-4353-a7ef-03523cb3eb35)
 2. You will then select the device you want to partition.
