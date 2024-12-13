@@ -1,0 +1,11 @@
+How to add an additonal disk to your VM in Oracle?
+
+RULE #1! Make sure that your VM is turned OFF.
+
+Step 1: Go to the settings and in the storage menu, you will have options for the IDE and SATA controllers.
+
+Step 2: Cick on the SATA controller and select the icon resembling an MP3 player next to the disk icon. This will add a hard disk
+
+Step 3: Click on create and do not change any of the default settings. The only setting you should change is the memory. It depends on what your teacher wants.
+
+Step 4: Once that is finished, you can press enter until you exit the settings. Your new drive is now created.
